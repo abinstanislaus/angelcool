@@ -138,7 +138,7 @@ class _CTAButtonState extends State<_CTAButton> {
             ScaffoldMessenger.of(context).showSnackBar(
               SnackBar(
                 content: Text(
-                  '📞 Call us at (0481) 6360 11021 to book your service!',
+                  '📞 Call us at +91 9495783297 to book your service!',
                   style: GoogleFonts.inter(fontSize: isMobile ? 14 : 16),
                 ),
                 backgroundColor: AppColors.primaryCyan,
